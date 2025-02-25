@@ -1,2 +1,2 @@
-# screenrc_template
+# screenrc_templates
 My screenrc templates
